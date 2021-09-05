@@ -1,7 +1,4 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable @typescript-eslint/no-unused-vars */
-import { type } from 'os'
-import React, { useState } from 'react'
+import React from 'react'
 import '../index.css'
 
 export type SquareDisp = 'O' | 'X' | null
